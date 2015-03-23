@@ -8,3 +8,6 @@ test:
 clean: 
 	rm -f calculator
 	rm -f hello
+
+doc:
+	 godoc -notes "TODO|BUG" github.com/gulyasm/go-meetup-2015/add 
