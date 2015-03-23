@@ -1,4 +1,3 @@
-// Provides addition functionality.
 package add
 
 // Adds two numbers.
