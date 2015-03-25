@@ -1,8 +1,13 @@
 package main
 
-import "fmt"
+import "encoding/json"
+
+type P struct {
+	Name, City, Nick string
+}
 
 func main() {
+
 }
 
 func init() {
